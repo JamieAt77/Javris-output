@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Standard Entry",
+        "price": 15.00,
+        "availability": 50
+    },
+    {
+        "name": "Family Ticket",
+        "price": 45.00,
+        "availability": 20
+    },
+    {
+        "name": "Senior Discount",
+        "price": 12.00,
+        "availability": 30
+    }
+]
